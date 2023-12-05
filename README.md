@@ -42,3 +42,4 @@ Welcome to the Web Development Educational Resources – comprehensive guide for
 
 ## Other
 - [Programming Notes for Professionals books](https://books.goalkicker.com/)
+- [Flavio Copes Books](https://flaviocopes.com/books/)
