@@ -13,6 +13,9 @@ Welcome to the Web Development Educational Resources – comprehensive guide for
 - [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw)
 - [Smashing Magazine](https://www.smashingmagazine.com/category/css/)
 - [SASS](https://sass-lang.com/)
+- [Tailwind](https://tailwindcss.com/)
+- [Bootstrap](https://getbootstrap.com/)
+
 
 ## Javascript
 - [javascript.info](https://javascript.info/)
@@ -39,6 +42,12 @@ Welcome to the Web Development Educational Resources – comprehensive guide for
 ## Git
 - [Git Pro](https://git-scm.com/book)
 - [Git Hooks](https://githooks.com/)
+
+## Courses
+- [Full Stack Open](https://fullstackopen.com/en/)
+- [Odin Project](https://www.theodinproject.com/)
+- [FreeCodeCamp](https://www.freecodecamp.org/)
+- [CS50 harvard web development](https://www.edx.org/cs50)
 
 ## Other
 - [Programming Notes for Professionals books](https://books.goalkicker.com/)
