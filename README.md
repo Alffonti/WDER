@@ -1,7 +1,6 @@
 
 <div align="center">
   <img src="https://github.com/Alffonti/auditivos/assets/69361901/172337e6-393c-451c-b8f1-3e269f037c04"/>
-![web-development](https://github.com/Alffonti/auditivos/assets/69361901/172337e6-393c-451c-b8f1-3e269f037c04)
 </div>
 <div align="center">
 
