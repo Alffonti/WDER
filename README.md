@@ -3,7 +3,7 @@
   <img src="https://github.com/Alffonti/auditivos/assets/69361901/172337e6-393c-451c-b8f1-3e269f037c04"/>
 </div>
 <div align="center">
-
+<br/>
 A curated list of web development learning resources . For more awesomeness, check
 out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
 <br/>
