@@ -1,8 +1,7 @@
 
 <div align="center">
-  <span style="font-size:5em">📖</span>
+  <span style="font-size:10em;">📖</span>
 </div>
-<br/>
 <div align="center">
 
 A curated list of web development learning resources . For more awesomeness, check
