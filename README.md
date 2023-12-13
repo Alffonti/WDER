@@ -1,8 +1,6 @@
-# WDER
 
-<br/>
 <div align="center">
-  📖
+  <span style="font-size:5em">📖</span>
 </div>
 <br/>
 <div align="center">
