@@ -1,6 +1,19 @@
 # WDER
 
-Welcome to the Web Development Educational Resources – comprehensive guide for curated learning materials covering a variety of web development topics. Each section includes organized collections of websites, books, and YouTube channels dedicated to specific topics of web development.
+<br/>
+<div align="center">
+  📖
+</div>
+<br/>
+<div align="center">
+
+A curated list of web development learning resources . For more awesomeness, check
+out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
+<br/>
+<br/>
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/>
+</div>
+<br/>
 
 ## HTML
 - [MDN Docs](https://developer.mozilla.org/)
