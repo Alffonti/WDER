@@ -42,8 +42,9 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
 - [Laravel Docs](https://laravel.com/docs)
 - [Laracasts](https://laracasts.com/)
 
-## SQL
+## Database
 - [SQL Tutorial](https://www.sqltutorial.org/)
+- [MySQL Tutorial](https://www.mysqltutorial.org/)
 
 ## Regex
 - [RexEgg](https://www.rexegg.com/)
